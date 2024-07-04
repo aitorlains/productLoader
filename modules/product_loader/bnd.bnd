@@ -1,0 +1,4 @@
+Bundle-Name: product_loader
+Bundle-SymbolicName: com.liferay.productLoader
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.productLoader.constants
